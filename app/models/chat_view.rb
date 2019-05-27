@@ -1,0 +1,2 @@
+class ChatView < ApplicationRecord
+end
